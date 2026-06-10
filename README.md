@@ -14,7 +14,7 @@ Hardware identifier spoofing tool for Windows.
 
 ### Installation
 
-**Download Python** from the official website: https://www.python.org/downloads/ (press Add Python to PATH)
+**Download Python** from the official website: https://www.python.org/downloads/
 
 **Install dependencies** by running in terminal:
    ```bash
