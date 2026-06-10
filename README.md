@@ -15,6 +15,7 @@ Hardware identifier spoofing tool for Windows.
 ### Installation
 
 **Download Python** from the official website: https://www.python.org/downloads/
+
 **Install dependencies** by running in terminal:
    ```bash
    pip install colorama requests pywin32
